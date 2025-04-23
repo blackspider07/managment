@@ -50,7 +50,7 @@ const HomeComponent = () => {
         </div>
 
         <footer class="pt-3 mt-4 text-muted border-top">
-          &copy; 2024 Balmukund Shukla
+          &copy; 2025 Khushi K | Teacher Student Managment Portal
         </footer>
       </div>
     </main>
